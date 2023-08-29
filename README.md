@@ -10,4 +10,4 @@ This is a simple React application that displays a photo gallery using data from
 
 ## Demo
 
-[View Demo] https://photo-gallery-bice-five.vercel.app/)https://photo-gallery-bice-five.vercel.app/
+[View Demo] https://photo-gallery-bice-five.vercel.app/
